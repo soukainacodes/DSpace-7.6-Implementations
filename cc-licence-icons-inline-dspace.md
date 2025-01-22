@@ -1,6 +1,6 @@
-# Guide: Adding Creative Commons Icons in DSpace 7.4 Using Inline HTML
+# Guide: Adding Creative Commons Icons in DSpace 7.6 Using Inline HTML
 
-This guide explains how to display Creative Commons (CC) icons dynamically in DSpace 7.4 using inline HTML without modifying `.ts` components. This approach works for all DSpace entities with CC licenses.
+This guide explains how to display Creative Commons (CC) icons dynamically in DSpace 7.6 using inline HTML without modifying `.ts` components. This approach works for all DSpace entities with CC licenses.
 
 ---
 
